@@ -55,3 +55,17 @@ Numbers now: [0, 1, 2, 3, 4, 5]
 print "Numbers now: ", numbers
 ```
 
+受[开智学友scott](https://github.com/AIHackers/PythonStartUp/issues/144)的启发，试着将最后打印列表各个数字的语句用其他方式表达：
+
+源语句：
+```
+print ("The numbers: ")
+for num in numbers:
+    print (num)
+```
+改为:
+```
+print "The numbers:"
+print ",".join(str(num) for num in numbers)
+```
+感觉这个灵活的多，还可以指定自定义的连接符。
