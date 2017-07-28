@@ -1,8 +1,8 @@
 # Py104
 
-[学习笔记.md](https://github.com/Vwan/Py104/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+[Learning Notes.md](https://github.com/Vwan/Py104/blob/master/Learning%20Notes.md)
 
-[学习小结.md](https://github.com/Vwan/Py104/blob/master/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%93.md)
+[Brief Summary.md](https://github.com/Vwan/Py104/blob/master/Brief%20Summary.md)
 
 Change Log:
 
